@@ -1,11 +1,12 @@
 # Hi, I'm OluwaSegun 👋
 
-Frontend Developer specializing in **React** and modern UI development.
+Frontend Developer specializing in **React js, Next JS** and modern UI development.
 I build responsive, clean, and user-friendly web applications.
 
 ## 🚀 Skills
 - JavaScript (ES6+)
 - React
+- Next Js
 - Tailwind CSS
 - HTML5 & CSS3
 - Git & GitHub
