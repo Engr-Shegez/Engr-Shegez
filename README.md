@@ -1,4 +1,4 @@
-# Hi, I'm OluwaSegun 👋
+# Hi, I'm Elijah 
 
 Frontend Developer specializing in **React js, Next JS** and modern UI development.
 I build responsive, clean, and user-friendly web applications.
